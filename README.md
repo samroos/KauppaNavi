@@ -1,7 +1,7 @@
 KauppaNavi
 ==========
 
+Idea
+----
 
-idea
-----------
 projektissa  tavoitteena kehit‰‰ navigointi j‰rjestelm‰ kauppaan.
