@@ -1,14 +1,11 @@
 KauppaNavi
 ==========
 
-<<<<<<< HEAD
-
-idea
-----------
-projektissa  tavoitteena kehitää navigointi järjestelmä kauppaan.
-=======
 Idea
+<<<<<<< HEAD
 ----
 
-Navigaatio eri osastoille kaupassa.
->>>>>>> e8a0bd11d91015ad81ad63e405de5d4144b9bc7e
+projektissa  tavoitteena kehitää navigointi järjestelmä kauppaan.
+=======
+----kaupan sisätilanpaikannus
+>>>>>>> efe1aa45f3bf6933e081d417b371af6b684907f2
