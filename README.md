@@ -1,2 +1,5 @@
 KauppaNavi
 ==========
+
+Idea
+----kaupan sisätilanpaikannus
