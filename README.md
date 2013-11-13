@@ -4,4 +4,4 @@ KauppaNavi
 
 idea
 ----------
-projetissa  tavoitteena kehit‰‰ navigointi j‰rjestelm‰ kauppaan.
+projektissa  tavoitteena kehit‰‰ navigointi j‰rjestelm‰ kauppaan.
