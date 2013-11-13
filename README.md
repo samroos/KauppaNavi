@@ -2,6 +2,5 @@ KauppaNavi
 ==========
 
 Idea
-----
-
-Navigaatio eri osastoille kaupassa.
+----kaupan sis‰tilanpaikannus
+projektissa  tavoitteena kehit‰‰ navigointi j‰rjestelm‰ kauppaan.
