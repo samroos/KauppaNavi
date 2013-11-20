@@ -116,14 +116,14 @@ Y18. Ylläpitäjä voi liittää asiakastapahtumille lisätietoja.
 - miten eri näkymien (views) välillä liikutaan?**Erilaisilla linkeillä sivustossa**
 
 ##### (prosessimalli)
-- onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-- resurssit? budjetti?
-- riskianalyysi? 
+- onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa **ei ole**
+- resurssit? budjetti? **Budjetista mainitaan kerran, mutta sitä ei dokumentissa paljasteta**
+- riskianalyysi?**Ei ole kyseistä analyysia** 
 
 ##### (johtopäätökset, oma mielipide)
-- mikä tekee hyvän dokumentin?
-- onko tämä sellainen? miksi?
-- kaavioiden käyttö: laatu? määrä? hyöty? 
+- mikä tekee hyvän dokumentin?**Dokumentti, joka vastaa kaikkiin ylhäällä oleviin kysymyksiin hyvin, jos sellaiseen on tarve.**
+- onko tämä sellainen? miksi?**EI OLE, aivan liikaa tekstiä, joka jaarittelee ja kiertelee kuten nämä meidän vastauksetkin..**
+- kaavioiden käyttö: laatu? määrä? hyöty? **Kaaviot ovat itseasiassa erittäin selkeät, eli iso plussa dokumentin tekijälle niistä. Ainakin itse ymmärsin hyvin kaavioista eri ominaisuuksien tarkoitukset**
 
 #### 3. Palauta linkki tiedostoosi Githubissa tuubiin yhdessä B-kohdan vastauksen kanssa. Pienryhmistä (2-3 hlö) jokainen jäsen palauttaa linkin erikseen, jotta saa läsnäolopisteet ja mahdollisuuden nähdä muiden vastauksia.
 #### 4. Valmistaudu esittelemään työsi.
@@ -132,11 +132,11 @@ Y18. Ylläpitäjä voi liittää asiakastapahtumille lisätietoja.
 
 ##### Edelliseen analyysiin pohjautuen luonnostele seuraavia asioita ryhmäsi projektiin liittyen:
 
-- lyhyt kuvaus projekti-ideastanne
-- käyttötapaukset (use cases): listaa oleellsimmat ranskalaisin viivoin käyttäjäryhmäkohtaisesti tai piirrä käyttötapauskaavio
-- toiminnalliset vaatimukset (functional requirements)
-- laadulliset vaatimukset (non-functional requirements)
-- käyttöliittymäluonnos (mockup)
+- lyhyt kuvaus projekti-ideastanne**paikannnusjärjestelmä kauppakeskuksiin ja marketeihin asiakkaita ja henkilökuntaa varten**
+- käyttötapaukset (use cases): listaa oleellsimmat ranskalaisin viivoin käyttäjäryhmäkohtaisesti tai piirrä käyttötapauskaavio**Vartija näkee käyttäjät tarvittaessa, kun kauppa on sulkeutumassa. Myyjä näkee kolleegansa, ketkä ovat tauolla ja ketkä ei. Asiakas löytää tuotteet hyllyltä softan antamien neuvojen avulla. Myyjä löytää tuotteet hyllytettäviksi laitteen avulla ja löytää nopeasti perille. Vartija löytää esimerkiksi taskuvarkaan, ja nappaa sen kiinni kartalla merkitystä alueesta. Taskuvaras näkee vain tuotteet kun  myyjä näkee näiden lisäksi käyttäjiä ja vartija näkee kolleegat, myyjät, asiakkaat, tuotteet, paikkojen nimet ja sun muut infot mitä ikinä keksitäänkään.**
+- toiminnalliset vaatimukset (functional requirements)**hae tuote, näytä tuote kartalla, opasta tuotteelle, näytä käyttäjä, arvioitu aika määränpäähän, databasesta tuotteiden haku, näytä käyttäjät**
+- laadulliset vaatimukset (non-functional requirements)**Paikannus toimii automaattisesti ja ainoa asia mitä asiakkaan pitää tietää, on tuotteen nimi ja kirjoittaa se hakupalkkiin ja softa alkaa automaattisesti jäljittää asiakasta ja tuotteen paikkaa ehdottaakseen nopeimman reitin tuotten luo**
+- käyttöliittymäluonnos (mockup)**Google maps tyylinen pohja piirros jossa haluttu tuote on pilkulla merkitty pohjapiirrokseen. Pohjapiirrustuksessa on myös visualisoitu hyllyt, niiden numerot ja klikkaamalla hyllyä tulee tieto hyllyalueella olevista tuotteista. Ikkunassa on myös hakupalkki jolla voi hakea esim: tuotteita ja softa aloittaa paikannuksen välittömästi.**
 
 ##### Toimintaohje
 
