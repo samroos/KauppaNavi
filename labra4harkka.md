@@ -31,21 +31,89 @@ http://www.theseus.fi/bitstream/handle/10024/39057/Tiainen_Tuukka.pdf?sequence=1
 **Poikkeukset: Uusi asiakas: Käyttäjä siirtyy uuden asiakkaan lisäämiseen.**
 **Loppuehdot: Varattu aika on tallennettu järjestelmään.**
 **Täyttää vaatimukset: Y12, Y1**
-- kuinka yksityiskohtaisesti kuvattu?
-- skenaariot? tarinat?
+- kuinka yksityiskohtaisesti kuvattu?**Erittäin yksityiskohtaisesti**
+- skenaariot? tarinat?**Aivan järkyttävä määrä käyttäjätarinoita! katso vaikka itse:**
+- Keskinkertainen: Parantaa ohjelmiston käyttökelpoisuutta huomattavasti. Ohjelmisto kuitenkin toimii ilman sitä. Suurin osa keskinkertaisista vaatimuksista toteutetaan ensimmäisessä tuotteen versiossa.
+Matala: Tuo lisäarvoa jo käyttökelpoiseen järjestelmään. Se voidaan toteuttaa mahdollisesti tulevien iteraatioiden aikana.
+Vaatimusten numerointi
+Vaatimukset on numeroitu ja niihin on liitetty kirjaintunnus ryhmästä riippuen. Ryhmien tunnukset ovat:
+48
+Asiakas, A
+Työntekijä, T
+Ylläpitäjä, Y
+Asiakas
+Tämä loppukäyttäjäryhmä koostuu suurimmalta osin kotikäyttäjistä, jotka tekevät ajanvarauksia eri palveluihin eri palveluntarjoajilta.
+Prioriteetti: tärkeä
+A1. Asiakas voi valita haluamansa resurssin.
+A2. Asiakas voi valita haluamansa palvelun/palvelut.
+A3. Asiakas voi valita haluamansa kellonajan ja päivämäärän varaukselle.
+A4. Asiakas voi tarkastaa haluamansa palvelun hinnan.
+A5. Asiakas voi perua varauksen.
+Prioriteetti: keskinkertainen
+A6. Asiakas voi rekisteröityä järjestelmään.
+A7. Asiakas voi kirjautua järjestelmään.
+A8. Asiakas voi muokata omia tietojaan.
+A9. Asiakas voi poistaa itensä palvelusta halutessaan.
+A10. Asiakas voi tilata salasanan rekisteröinnissä annettuun sähköpostiosoitteeseen.
+A11. Asiakas voi jättää palautetta palvelusta.
+A12. Asiakas voi lähettää viestin ylläpidolle tai työn tekijälle.
+.
+Prioriteetti: matala
+A13. Asiakas voi tunnistautua luotettavaksi käyttäjäksi.
+A14. Asiakas voi selailla käynti- ja palveluhistoriaansa.
+A15. Asiakas voi halutessaan valita teksti- tai/ja sähköpostiviestimuistutuksen varatusta ajasta.
+Työntekijä
+49
+Järjestelmässä voi olla käytössä työntekijä-ryhmä, jos ympäristö sen vaatii. Esimerkiksi parturikampaamossa voi olla yksi ylläpitäjä ja useita työntekijöitä, joilla on alhaisemmat käyttäjäoikeudet.
+Prioriteetti: tärkeä
+T1. Työntekijä voi merkata omat työaikansa, jonka perusteella varauksia voi tehdä.
+T2. Työntekijä voi muokata omia tietojaan.
+T3. Työntekijä voi liittää itsellensä palveluita.
+T4. Työntekijä voi poistaa itseltään palveluita.
+Prioriteetti: keskinkertainen
+T5. Työntekijä voi tulostaa merkattujen työaikojen ja varausten perusteella työaikalistan.
+T6. Työntekijä voi luoda työaikarungon.
+T7. Työntekijä voi poistaa työaikarungon.
+T8. Työntekijä voi muokata työaikarunkoa.
+Prioriteetti: matala
+T9. Työntekijä voi lisätä tauon työaikaansa.
+Ylläpitäjä
+Tällä ryhmällä on kaikista suurimmat oikeudet ajanvarausjärjestelmässä. Jossakin ympäristössä tämä voi olla ainut ryhmä asiakkaan lisäksi. Esimerkiksi liikuntahallin varauksissa ei välttämättä tarvita muuta ylläpidollista ryhmää.
+Prioriteetti: tärkeä
+Y1. Ylläpitäjä voi lisätä asiakkaalle tilin.
+Y2. Ylläpitäjä voi poistaa asiakkaan.
+Y3. Ylläpitäjä voi muokata asiakkaan tietoja.
+Y4. Ylläpitäjä voi lisätä työntekijälle tilin.
+Y5. Ylläpitäjä voi muokata työntekijän tietoja.
+Y6. Ylläpitäjä voi poistaa työntekijän.
+Y7. Ylläpitäjä voi lisätä palvelun.
+Y8. Ylläpitäjä voi poistaa palvelun.
+50
+Y9. Ylläpitäjä voi muokata palvelun tietoja.
+Y10. Ylläpitäjä voi liittää palvelun työntekijälle.
+Y11. Ylläpitäjä voi poistaa palvelun työntekijältä.
+Y12. Ylläpitäjä voi lisätä varauksen.
+Y13. Ylläpitäjä voi perua varauksen.
+Prioriteetti: keskinkertainen
+Y14. Ylläpitäjä voi passivoida työntekijän tilin.
+Y15. Ylläpitäjä voi liittää työntekijälle varattavia aikoja.
+Prioriteetti: matala
+Y16. Ylläpitäjä voi lähettää järjestelmän kautta asiakkaille asiakaskirjeen.
+Y17. Ylläpitäjä voi liittää asiakkaan tietoihin edellisten käyntien palvelut.
+Y18. Ylläpitäjä voi liittää asiakastapahtumille lisätietoja.
 
 ##### (järjestelmän yleisrakenne) 
-- MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
+- MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?**järjestelmän tietosisältö,taulukko, mindmap, pylvästaulukkoa. Näitä tekniikoita käytetään asioiden selkeyttämiseen.**
 
 ##### (funktionaaliset & ei-funktionaaliset vaatimukset)
-- esitetäänkö listauksena?
-- tunnistetiedot? numeroitu?
-- jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
+- esitetäänkö listauksena?**ei**
+- tunnistetiedot? numeroitu?**kyllä, esimerkiksi ylhäällä olevat käyttäjätarinat on numeroitu ja priorisoitu**
+- jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)**Mittaamalla käyttäjien nopeutta ajanvarauksessa ja sen helppokäyttöisyydellä**
 
 ##### (miltä se näyttää)
-- onko käyttöliittymästä kuvia?
-- luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-- miten eri näkymien (views) välillä liikutaan?
+- onko käyttöliittymästä kuvia?**Radio buttoneita kyllä, mutta muuten ei mitään**
+- luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?**Ei ole, pelkästään luonnoksia**
+- miten eri näkymien (views) välillä liikutaan?**Erilaisilla linkeillä sivustossa**
 
 ##### (prosessimalli)
 - onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
