@@ -21,8 +21,16 @@ http://www.theseus.fi/bitstream/handle/10024/39057/Tiainen_Tuukka.pdf?sequence=1
 - dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös [Wikipediasta löytyvä runko](http://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely).**Malli on pitkälti samanlainen, otsikot sun muut on samat kuin aikaisemmin nähdyissä malleissa ja mindmapit ovat melkeinpä identtiset**
 
 ##### (käyttötapaukset)
-- mitä sillä voi tehdä?
-- käyttötapauskaavio(t)? -vaatimustenhallinnalle
+- mitä sillä voi tehdä?**Varata järjestelmästä ajan ja admin voi hallinnoida varattuja aikoja**
+- käyttötapauskaavio(t)? **TAULUKKO 1. Käyttötapaus 4: ajan varaaminen**
+**Käyttötapaus 4: Ajan varaaminen / ylläpitäjä, työntekijä**
+**orittaja: Ylläpitäjä, Työntekijä**
+**Käytettävyysvaatimukset: Käyttäjä voi varata asiakkaalle palvelun ja mahdollisen tuottajan asiakkaan tarpeiden mukaan.**
+**Alkuehdot: Käyttäjä on kirjautunut järjestelmään.**
+**Kuvaus: Käyttäjä valitsee asiakkaan, palvelun, mahdollisen tuottajan ja ajankohdan. [Poikkeus: Uusi asiakas]. Käyttäjä tekee varauksen järjestelmään.**
+**Poikkeukset: Uusi asiakas: Käyttäjä siirtyy uuden asiakkaan lisäämiseen.**
+**Loppuehdot: Varattu aika on tallennettu järjestelmään.**
+**Täyttää vaatimukset: Y12, Y1**
 - kuinka yksityiskohtaisesti kuvattu?
 - skenaariot? tarinat?
 
