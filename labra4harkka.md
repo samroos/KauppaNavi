@@ -15,14 +15,14 @@ http://www.theseus.fi/bitstream/handle/10024/39057/Tiainen_Tuukka.pdf?sequence=1
 
 ##### (johdanto)
 - mikä projekti?  
-          -ajanvarausjärjestelmä
+          **ajanvarausjärjestelmä**
 - lukijakunta, kenelle dokumentti on tarkoitettu? 
-          -vaatimustenhallinnalle
+          **vaatimustenhallinnalle**
 - tilanne?
 - motivaatio, miksi dokumentti on luotu? 
-          -Oktacode on aloittamassa ensimmäisen tuotteen kehitystä, jota varten se tarvitsee kattavasti tehdyn vaatimusmäärittelyn.
+          **Oktacode on aloittamassa ensimmäisen tuotteen kehitystä, jota varten se tarvitsee kattavasti tehdyn vaatimusmäärittelyn.**
 - dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös [Wikipediasta löytyvä runko](http://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely). 
-          -Malli on pitkälti samanlainen, otsikot sun muut on samat kuin aikaisemmin nähdyissä malleissa ja mindmapit ovat melkeinpä identtiset
+          **Malli on pitkälti samanlainen, otsikot sun muut on samat kuin aikaisemmin nähdyissä malleissa ja mindmapit ovat melkeinpä identtiset**
 
 ##### (käyttötapaukset)
 - mitä sillä voi tehdä?
