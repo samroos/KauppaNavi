@@ -1,19 +1,43 @@
-Kirjastot.fi - Tietokannan uudistus
 
-
+(johdanto)
+-Kirjastot.fi - Tietokannan uudistus
 
 -Dokumentti on tarkoitettu lähtökohdaksi kirjastotietokannan uudistuksen toteutusprojektille, 
 ja se kuvaa järjestelmän vaatimukset sillä tasolla, että toteutuksen tarkempi suunnittelu on mahdollista.
 
-
 -Kirjastotietokannan toiminnallisuuksia on kehitetty nykyiseen verkkoportaaliin vuodesta 1998 lähtien.
 Itse tietokantaa ja sen toiminnallisuuksia ei merkittävästi ole kehitetty järjestelmän valmistumisen jälkeen.
 Siksi nyt on käynnistetty uudistusprojekti, jossa tietokannan palvelukonsepti ja toiminnallisuudet määritellään
-nykyisten kohderyhmiensä tarpeista lähtien sekä vastataanmm. tietokannan ylläpidossa oleviin kehitystarpeisiin.
+nykyisten kohderyhmiensä tarpeista lähtien sekä vastataan mm. tietokannan ylläpidossa oleviin kehitystarpeisiin.
 
 -Dokumentin rakenne seuraa hyvin pitkälti wikipediasta löytyvää runkoa. Dokumentti on luotu lähtökohdaksi tietokannan
-uusimiselle joten täysin kattava se ei ole.
+uusimiselle joten täysin kattava se ei ole. 
 Uuden kirjastotietokannan toteutusprojektiin tarvittava tarkempi 
 määrittely- ja suunnitteludokumentaatio tuotetaan projektin toteuttajaksi valitun toimittajan kanssa.
 
--Käyttötapaukset on kuvattu kirjastot.fi sivujen käyttöliittymää hyväksi käyttäen
+
+(käyttötapaukset)
+-Käyttötapauksia on kuvattu tarkasti joko pelkästään lauseilla tai kirjastot.fi sivujen käyttöliittymää hyväksi
+käyttäen. Eli useassa käyttötapauksessa näkyy kirjastot.fi sivuston selainnäkymä.
+Selkeä ja hyvä tapa havainnolistaa.
+
+(funktionaaliset & ei-funktionaaliset vaatimukset)
+-Toiminnaliset vaatimukset esitetään käyttöliittymää hyväksi käyttäen.
+
+(miltä se näyttää)
+
+onko käyttöliittymästä kuvia? On
+luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä? On
+
+
+(prosessimalli)
+
+Ei ole.
+
+(johtopäätökset, oma mielipide)
+
+    mikä tekee hyvän dokumentin? Selkeä, keskitytään olennaiseen, hyvät havainnollistavat kuvat ja kaaviot.
+    
+    onko tämä sellainen? miksi? Hyvä, tosin dokumentissa oli jonkin verran asiaa joka ei välttämättä
+    kuulu vaatimusmäärittelyyn.
+    
