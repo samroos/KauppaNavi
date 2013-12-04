@@ -71,6 +71,19 @@ Ohjelmiston suorituskyky taataan ohjelmiston verkkosivujen nopeudella ja puhelim
 Ohjelmiston ollessa verkkosivusto, taataan näin kaikille asiakkaille samanlainen käyttökokemus. Ohjelmisto on helposti päivitettävissä muuttamalla sivuston ulkoasua/toiminnalisuutta ja app:in päivittämisellä tarpeen mukaan. Mobiililaittessa päivitys toteutetaan laitteiden omissa ohjelmiston jakelu järjestelmillä kuten Android puhelimen Play ja Windows Phone Marketplace:n avulla, mutta jos muutos tapahtuu itse verkkosivulla, ei päivitystä tarvitse implementoida kuin pelkästään verkkosivuston tiedostoihin.
 Palvelun vastausaikoihin voidaan vaikuttaa lisäämällä kaistaa verkkosivuston ja mobiililaitteen kanssa. Laitteella ei kuitenkaan pitäisi mennä pitempään kuin pari minuuttia saada tietoa ohjelmistolta. Kirjautuminen tarvittaisiin tehdä vain kerran joten käyttäjän nopeus käyttää ohjelmistoa nopeutuisi. Tämä tallennettaisiin mobiililaitteen muistiin tulevaisuutta varten. Selkeä käyttöliittymä ja nopeat latausajat takaavat nopean etsimisen kirjastossa ja näin asiakas välttää tarpeen etsiä tietokonetta kirjastosta, jossa kirjan sijainti saadaisiin tietään. 
 
+##5. Käyttöliittymä
+####Näkymä 1. Kirjautuminen
+![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_sign_in.jpg)
+
+####Näkymä 2. Home
+![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto.jpg)
+
+####Näkymä 3. Hakutulokset
+![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_search.jpg)
+
+####Näkymä 4. Kartta
+![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_kartta.jpg)
+
 
 ##6. Projektinhallinta
 **Työhön kuluneet tunnit:**40 h
