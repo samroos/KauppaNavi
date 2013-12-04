@@ -55,8 +55,8 @@ Asiakkaat ja henkilökunta voivat hakea tuotteita, tuotteen tietoja ja paikantaa
 ###Langattomat verkot
 Sovellus käyttää langattomia verkkoja joiden avulla asiakkaat ja henkilökunta löytävät etsimänsä tuotteet.
 
-###Tukiasemat
-Langattomat verkot toimivat tukiasemien kautta.
+###Palvelin
+Asiakas- ja tuotetietokanta haetaan palvelimelta.
 
 ##4. Vaatimukset
 Tuotteen on suoriuduttava käyttäjien hakukyselyistä, kirjastonhoitajan palveluista ja tuote tulisi toimia jokaisella alueella kirjastossa. Alueet ratkaistaan lisäämällä tukiasemia sen verran, että kirjaston sivut ja reunat ovat myös tukiasemien kuuluvuusalueella. Asiakkaan käyttöön sisältyy kirjojen etsiminen ja tämän kautta voi pyytää laitteelta avustusta kirjan sijaintiin. Asiakas näkee pohjapiirrustuksen/kartan jossa oma sijainti on merkitty ja osoittaa suunnan kirjan sisältävälle hyllyvälille. Kirjaston henkilökunta saa saman palvelun mutta pystyvät myös näkemään palvelua kättävät asiakkaat kartan avulla.
