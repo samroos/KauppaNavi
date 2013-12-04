@@ -1,5 +1,5 @@
 #KirjastoNavi
-**Sovellus kirjojen lötyämiseen, tietoa mitä kirjoja kaverit ovat lainanneet ja olivatko kirjat hyviä**
+**Sovellus kirjojen löytämiseen, tietoa mitä kirjoja kaverit ovat lainanneet ja olivatko kirjat hyviä**
 
 Ryhmän nimi: **Lukutoukat**
 ####Sam Roos, Fredrik Gundersen, Toni Nummelin, Antti-Ville Pääkkönen
