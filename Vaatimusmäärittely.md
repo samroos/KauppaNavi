@@ -7,7 +7,10 @@ Ryhmän nimi: **Lukutoukat**
 
 ##Johdanto
 Kirjastot ovat pullollaan kirjoja ja niiden löytäminen saattaa olla erittäin hankalaa vaikka kirjat olisivatkin luokiteltuna ja aakkosjärjestyksessä, sillä juuri se kirja mikä pitäisi löytää saattaa kuulua moneen eri luokkaan tai sitten kirjan nimeä ei tiedä. Kirjaston laajasta valikoimasta saattaa tulla ongelma, jos etsii kirjaa josta on monia versioita ja kirjan nimestä selviää lähes samoja asioita. Ongelma on siis löytää juuri omia tarpeita parhaiten tyydyttävä kirja.
-Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan hakua. Sovelluksessa pystyy hakemaan kirjoja, missä ne tarkalleen sijaitsevat ja onko kyseistä kirjaa tällä hetkellä hyllyssä. Sovelluksessa käyttäjillä on mahdollisuus arvostella lainaamiaan kirjoja, jotta muut voivat lukea tarkemmin mitä kirja sisältää, onko kirjasta ollut hyötyä ja kenelle siitä voisi olla hyötyä. Sovelluksessa voi myös katsoa mitä kirjoja omat kaverit ovat lainanneet tai kommentoineet.
+
+
+Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan hakua. Sovelluksessa pystyy hakemaan kirjoja, missä ne tarkalleen sijaitsevat ja onko kyseistä kirjaa tällä hetkellä hyllyssä.
+
 
 ##2.Käyttötapaukset
 ####A= asiakas
