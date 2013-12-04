@@ -36,7 +36,7 @@ Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan ha
 
 ##3.Järjestelmäarkkitehtuuri
 ###Korkean abstraktiotason yleiskuvaus
-![alt tag](http://users.metropolia.fi/~toninu/abstraktio.PNG)
+![alt tag](http://users.metropolia.fi/~toninu/abstraktio1.PNG)
 
 **Järjestelmän pääkomponentit ja niiden toiminnallisuuksien määrittely**
 
