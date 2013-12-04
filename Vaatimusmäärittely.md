@@ -70,3 +70,15 @@ Tietokannan eli kirjojen sun muiden ylläpito tapahtuu alkuperäisen kirjastojä
 Ohjelmiston suorituskyky taataan ohjelmiston verkkosivujen nopeudella ja puhelimen omilla resursseilla. Palvelun verkkosivuston tehtävä on lähettää vain tieto puhelimelle ja puhelin päättää paikan itselleen ladatun pohjapiirrustuksen kautta. Näin saadaan laskenta siirrettyä puhelimen omaan prosessoriin ja itse järjestelmä ei kuormitu suuresta käyttäjämäärästä.
 Ohjelmiston ollessa verkkosivusto, taataan näin kaikille asiakkaille samanlainen käyttökokemus. Ohjelmisto on helposti päivitettävissä muuttamalla sivuston ulkoasua/toiminnalisuutta ja app:in päivittämisellä tarpeen mukaan. Mobiililaittessa päivitys toteutetaan laitteiden omissa ohjelmiston jakelu järjestelmillä kuten Android puhelimen Play ja Windows Phone Marketplace:n avulla, mutta jos muutos tapahtuu itse verkkosivulla, ei päivitystä tarvitse implementoida kuin pelkästään verkkosivuston tiedostoihin.
 Palvelun vastausaikoihin voidaan vaikuttaa lisäämällä kaistaa verkkosivuston ja mobiililaitteen kanssa. Laitteella ei kuitenkaan pitäisi mennä pitempään kuin pari minuuttia saada tietoa ohjelmistolta. Kirjautuminen tarvittaisiin tehdä vain kerran joten käyttäjän nopeus käyttää ohjelmistoa nopeutuisi. Tämä tallennettaisiin mobiililaitteen muistiin tulevaisuutta varten. Selkeä käyttöliittymä ja nopeat latausajat takaavat nopean etsimisen kirjastossa ja näin asiakas välttää tarpeen etsiä tietokonetta kirjastosta, jossa kirjan sijainti saadaisiin tietään. 
+
+
+##6. Projektinhallinta
+**Työhön kuluneet tunnit:**40 h
+
+**Dokumentin kirjoittamiseen kuluneet tunnit:**10 h/hlö
+
+Työmäärää oli vaikea arvoida, sillä ryhmällä ei ollut aikaisempaa taustaa tämän tyyppisestä projektista ja mitä siihen kuuluu.
+
+Projekti oli melko onnistunut odotuksiin nähden. Seuraavan projektin voisi aloittaa aikaisemmin ja perehtyä kaikkeen siihen liittyvään syvemmin.
+
+Vaikeinta dokumentioinnissa oli toiminnallisten ja ei toiminnallisten vaatimuksien laatiminen.
