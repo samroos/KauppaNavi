@@ -24,6 +24,8 @@ Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan ha
 -	T haluan tietää missä muut käyttäjät sijaitsevat
 -	T haluan nähdä pohjapiirustuksen
 -	T haluan tietää asiakkaan tiedot
+-	T haluan kirjautua palveluun
+-	T haluan kirjautua ulos palvelusta
 
 
 ###Kirjan haku vuokaavio
