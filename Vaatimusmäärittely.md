@@ -12,17 +12,19 @@ Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan ha
 ##2.Käyttötapaukset
 ####A= asiakas
 ####T= työntekijä
--	A haluan nähdä kirjan arvostelun
--	A haluan tietää missä kirja sijaitsee
-- A haluan nähdä mitä kaverit ovat lainanneet/kommentoineet
--	A haluan tietää kirja tiedot
--	T haluan tietää missä kirja sijaitsee
--	T haluan tietää onko kirjaa jäljellä
--	T haluan tietää kirja tiedot
--	T haluan tietää minne kirjat laitetaan
--	T haluan tietää asiakkaan tiedot
+-	A haluan tietää missä tuote sijaitsee
+-	A haluan kirjautua palveluun
+-	A haluan kirjautua ulos palvelusta
+-	A haluan tietää tuotteen tiedot
+-	A haluan tietää oman sijainnin
+-	T haluan tietää missä tuote sijaitsee
+-	T haluan tietää onko tuotetta jäljellä
+-	T haluan tietää tuotteen tiedot
+-	T haluan tietää minne tuotteet laitetaan
 -	T haluan tietää missä muut käyttäjät sijaitsevat
 -	T haluan nähdä pohjapiirustuksen
+-	T haluan tietää asiakkaan tiedot
+
 
 ###Kirjan haku vuokaavio
 ![alt tag](http://users.metropolia.fi/~samr/kauppa_projekti/KauppaNavi/flowchart.jpg)
