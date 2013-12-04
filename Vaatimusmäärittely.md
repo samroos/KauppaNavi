@@ -33,3 +33,25 @@ Tässä työssä esitellään ratkaisu sovellus, joka nopeuttaa oikean kirjan ha
 
 ###Käyttötapaus kaavio
 ![alt tag](http://users.metropolia.fi/~fredrikg/ohjelmisto/käyttötapauskaavio.png)
+
+##3.Järjestelmäarkkitehtuuri
+###Korkean abstraktiotason yleiskuvaus
+![alt tag](http://users.metropolia.fi/~toninu/abstraktio.PNG)
+
+**Järjestelmän pääkomponentit ja niiden toiminnallisuuksien määrittely**
+
+###Tuotetietokanta
+Tuotetietokanta koostuu tuotteista, jotka ovat kirjaston tuoteluettelossa. Tuotteiden saatavuustilanne päivittyy sovellukseen automaattisesti, jolloin asiakkaan on helppo nähdä mitä tuotetta on saatavilla ja mitä ei. 
+
+###Asiakastietokanta
+Asiakastietokanta koostuu kirjaston rekisteröityneistä asiakkaista. Tietokanta sisältää asiakkaan perustiedot. Tietokantaan tallennetaan myös asiakkaan tekemät lainaukset ja varaukset.
+
+###Tuotteen haku
+Asiakkaat ja henkilökunta voivat hakea tuotteita, tuotteen tietoja ja paikantaa tuotteen.
+
+###Langattomat verkot
+Sovellus käyttää langattomia verkkoja joiden avulla asiakkaat ja henkilökunta löytävät etsimänsä tuotteet.
+
+###Tukiasemat
+Langattomat verkot toimivat tukiasemien kautta.
+
