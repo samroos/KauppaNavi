@@ -78,18 +78,24 @@ Palvelun vastausaikoihin voidaan vaikuttaa lisäämällä kaistaa verkkosivuston
  
 
 ##5. Käyttöliittymä
+
+Kirjautuminen tapahtuu kun ohjelma on käynnistynyt. Kotinäppäimellä pääsee jokaisesta näkymästä aloitusnäkymään. Haun voi suorittaa jokaisessa näkymässä.
+
 ####Näkymä 1. Kirjautuminen
 ![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_sign_in.jpg)
+Kirjautuminen tapahtuu kirjoittamalla tunnus ja salasana niille varattuihin kenttiin ja painamalla OK-buttonia.
 
-####Näkymä 2. Home
+####Näkymä 2. Aloitusnäkymä
 ![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto.jpg)
+Aloitusnäkymä. Haku suoritetaan kirjoittamalla hakusana(t) varattuun tekstikenttään ja painamalla oikealla sijaitsevaa buttonia.
 
 ####Näkymä 3. Hakutulokset
 ![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_search.jpg)
+Hakutulokset ilmestyvät omaan kenttäänsä. Nimet linkkeinä joista pääsee kartta näkymään.
 
 ####Näkymä 4. Kartta
 ![alt tag](http://users.metropolia.fi/~anttivip/Ohjelmistotuotanto/projekti/KauppaNavi/images/naytto_kartta.jpg)
-
+Karttanäkymä. Normaalikäyttäjällä näkyy oma sijainti oranssilla pylpyrällä ja kohdehylly keltaisella värillä korostettuna.
 
 ##6. Projektinhallinta
 **Työhön kuluneet tunnit:**40 h
