@@ -28,7 +28,10 @@ Tässä työssä esitellään sovellus, joka nopeuttaa oikean kirjan hakua. Sove
 -	T haluan tietää asiakkaan tiedot
 -	T haluan kirjautua palveluun
 -	T haluan kirjautua ulos palvelusta
+	
 
+###Käyttäjäskenaario
+![alt tag](http://users.metropolia.fi/~toninu/K%e4ytt%e4j%e4skenaario.JPG)
 
 ###Kirjan haku vuokaavio
 ![alt tag](http://users.metropolia.fi/~samr/kauppa_projekti/KauppaNavi/flowchart.jpg)
